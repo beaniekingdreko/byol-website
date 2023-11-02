@@ -1,0 +1,230 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* header start  */
+
+header {
+    background-color: #434343;
+}
+
+.sec-link {
+    color: #F4C72C;
+    font-size: 19px;
+    font-weight: 900;
+}
+
+/* header end  */
+
+.cc-col-one {
+    background-image: url(../images/byol-400-spray.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cc-col-two {
+    background-image: url(../images/byol-r.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cc-col-three {
+    background-image: url(../images/byol-x.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cc-col-four {
+    background-image: url(../images/byol-r-two.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* banner start  */
+
+.banner {
+    border-top: 5px solid #F4C72C;
+}
+
+.banner img {
+    margin-top: -1px;
+}
+
+/* banner end */
+
+/* arrowled spa start  */
+
+.ar-spa {
+    padding: 20px 0;
+    background-color: #434343;
+}
+
+.ar-spa h1 {
+    margin-bottom: 0;
+    text-align: center;
+    color: #F4C72C;
+    font-size: 49px;
+    font-weight: 900;
+}
+
+.ar-spa a {
+    text-decoration: none;
+    color: #F4C72C;
+    transition: 0.3s;
+}
+
+.ar-spa a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.yellow-border {
+    background-color: #F4C72C;
+    width: 100%;
+    height: 5px;
+}
+
+.ar-spa h2 {
+    margin-bottom: 0;
+    text-align: center;
+    color: #F4C72C;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+/* arrowled spa end  */
+
+/* byol-400 start  */
+
+.cc-byol-desc-col {
+    background-color: #F4C72C;
+}
+
+.byol-400-desc {
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+}
+
+.byol-400-desc h1 {
+    color: #434343;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.byol-400-desc h2 {
+    color: #434343;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.byol-400-desc li {
+    font-family: 'Montserrat', sans-serif;
+    color: #434343;
+    font-size: 18px;
+    font-weight: 500;
+    /* 29.052px */
+}
+
+.byol-400-desc p {
+    font-family: 'Montserrat', sans-serif;
+    color: #434343;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* byol-400 end  */
+
+/* desc start  */
+
+.desc {
+    padding: 50px 0;
+    background-color: #F4C72C;
+}
+
+.desc p {
+    color: #434343;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    /* 24px */
+}
+
+/* desc end  */
+
+/* qualcosa start  */
+
+.qualcosa {
+    background-color: #F4C72C;
+    padding: 50px 0 80px 0;
+}
+
+.qualcosa h1 {
+    color: #000;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.qualcosa p {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    /* 24px */
+}
+
+
+/* qualcosa end  */
+
+footer {
+    padding: 30px 0;
+    background-color: #434343;
+}
+
+footer h2 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+footer li {
+    color: #FFF;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+footer .form-label {
+    text-align: left !important;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff;
+}
+
+footer textarea {
+    resize: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url(../images/hamburgermenu.png);
+}
+
+.submit-btn{
+    margin-top: 10px;
+    background-color: #F4C72C;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+}
